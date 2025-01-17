@@ -18,13 +18,13 @@ This project is a Flutter application that fetches employee data from a remote A
 
 ## App Demo Video 🎥
 
-[Watch the localization demo video here](https://github.com/user-attachments/assets/d1cb2a3e-8f20-4b21-ac25-ab106863603c)
+[Watch the localization demo video here](https://github.com/user-attachments/assets/5272b446-3401-4aa6-8231-dfba7ab87bbb)
 
 ## Screenshots
 
 | Loading State                                                                                     | Employee List                                                                                     | Employee Details      |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------- |
-| ![Loading State](https://github.com/user-attachments/assets/2be2ee42-1d5d-4daf-ac8d-ea71e049bafe) | ![Employee List](https://github.com/user-attachments/assets/7d199b2f-3642-4f9a-8d72-08f7916efd18) | ![Employee Details]() |
+| ![Loading State](https://github.com/user-attachments/assets/2be2ee42-1d5d-4daf-ac8d-ea71e049bafe) | ![Employee List](https://github.com/user-attachments/assets/7d199b2f-3642-4f9a-8d72-08f7916efd18) | ![Employee Details](https://github.com/user-attachments/assets/eb861c4b-da1b-4a2e-a557-444fc1fa086e) |
 
 ---
 
